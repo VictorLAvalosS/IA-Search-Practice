@@ -147,7 +147,13 @@ Causa: Puede haber un error de JavaScript en la consola.
 Solución: Abre DevTools (F12) → pestaña Console → reporta el error si aparece.
 
 👥 Integrantes del Grupo
-(Agregar nombres aquí)
+Avalos Serrano Victor Luis
+Caberos Carbajal Juan Daniel 
+Escalera Mamani Jorge David
+Huaynahuayna Choque Fabiola
+Mamani Mishell Vanessa
+Salvatierra Humaza Juan Jose
+Tarque Caceres Angela Vanesa
 
 📚 Bibliografía
 
